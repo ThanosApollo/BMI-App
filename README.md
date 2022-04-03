@@ -1,3 +1,3 @@
 # flutter_bmi_calculator
 
-![](images/Simulator1.png)
+![](lib/images/Simulator1.png)
