@@ -2,5 +2,5 @@
 
 BMI Calculator made with Flutter, part of Dr.Angela Yu Flutter course
 
-![](lib/images/Simulator1.png =250x250)
-![](lib/images/Simulator2.png =width=100)
+
+<img src="lib/images/Simulator1.png" width=250 height=300>
